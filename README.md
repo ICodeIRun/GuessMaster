@@ -1,4 +1,5 @@
 # GuessMaster
+very simple but fun game.
 
 # How to play
 Run the Python script in your preferred environment.
