@@ -1,5 +1,5 @@
 # GuessMaster
-very simple but fun game.
+a game i make while i do nothing.
 
 # How to play
 Run the Python script in your preferred environment.
